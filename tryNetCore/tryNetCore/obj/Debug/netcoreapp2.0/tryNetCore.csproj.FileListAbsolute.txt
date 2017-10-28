@@ -3,7 +3,6 @@ D:\projects\tryNetCore\tryNetCore\tryNetCore\bin\Debug\netcoreapp2.0\tryNetCore.
 D:\projects\tryNetCore\tryNetCore\tryNetCore\bin\Debug\netcoreapp2.0\tryNetCore.runtimeconfig.dev.json
 D:\projects\tryNetCore\tryNetCore\tryNetCore\bin\Debug\netcoreapp2.0\tryNetCore.dll
 D:\projects\tryNetCore\tryNetCore\tryNetCore\bin\Debug\netcoreapp2.0\tryNetCore.pdb
-D:\projects\tryNetCore\tryNetCore\tryNetCore\obj\Debug\netcoreapp2.0\tryNetCore.csprojResolveAssemblyReference.cache
 D:\projects\tryNetCore\tryNetCore\tryNetCore\obj\Debug\netcoreapp2.0\tryNetCore.csproj.CoreCompileInputs.cache
 D:\projects\tryNetCore\tryNetCore\tryNetCore\obj\Debug\netcoreapp2.0\tryNetCore.AssemblyInfoInputs.cache
 D:\projects\tryNetCore\tryNetCore\tryNetCore\obj\Debug\netcoreapp2.0\tryNetCore.AssemblyInfo.cs
